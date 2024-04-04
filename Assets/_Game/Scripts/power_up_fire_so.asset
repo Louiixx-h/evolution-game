@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32174d04192b4694a98c65f4e5a7a259, type: 3}
+  m_Name: power_up_fire_so
+  m_EditorClassIdentifier: 
+  Properties:
+    name: Fire
+    evolutionDescriptions:
+    - 'Spots: 1'
+    - 'Spots: 1 -> 2'
+    - 'Spots: 2 -> 3'
